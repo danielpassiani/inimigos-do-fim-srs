@@ -19,7 +19,7 @@ Como principal responsável pela estruturação do sistema, desenvolvi de ponta 
 ### Diagrama Entidade-Relacionamento (DER)
 *A arquitetura projetada para sustentar o banco de dados da aplicação.*
 <p align="center">
-  <img src="assets/seu-der-aqui.png" alt="Diagrama DER" width="80%">
+  <img src="assets/DER.png" alt="Diagrama DER" width="80%">
 </p>
 
 ### Fluxo de Processo (BPMN) - Criação de Evento e Anúncio Pago
