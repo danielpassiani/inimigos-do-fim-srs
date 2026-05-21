@@ -33,4 +33,4 @@ Como principal responsável pela estruturação do sistema, desenvolvi de ponta 
 ## 📂 Documentação Completa
 
 Para visualizar o Documento de Requisitos (SRS) completo, incluindo casos de uso detalhados, telas de UI/UX e todos os fluxogramas:
-👉 **[Acesse o PDF Completo aqui](docs/SRS-Inimigos-do-Fim.pdf)**
+👉 **[Acesse o PDF Completo aqui](docs/SRS - Inimigos do Fim_compressed.pdf)**
