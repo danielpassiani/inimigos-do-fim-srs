@@ -25,7 +25,7 @@ Como principal responsável pela estruturação do sistema, desenvolvi de ponta 
 ### Fluxo de Processo (BPMN) - Criação de Evento e Anúncio Pago
 *Mapeamento lógico da integração entre Usuário, Front-end, Back-end e Gateway de Pagamento.*
 <p align="center">
-  <img src="assets/seu-bpmn-aqui.png" alt="Diagrama BPMN" width="80%">
+  <img src="assets/BPMN criação de evento.png" alt="Diagrama BPMN" width="80%">
 </p>
 
 ---
